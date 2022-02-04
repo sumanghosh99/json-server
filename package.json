@@ -1,0 +1,23 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "creating a json server for api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanghosh99/json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanghosh99/json-server/issues"
+  },
+  "homepage": "https://github.com/sumanghosh99/json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
